@@ -1,3 +1,3 @@
 # My Awesome Supabase
 
-A comprehensive guide to Supabase system architecture and components.
+A comprehensive guide to Supabase system architecture and components for beginners.
